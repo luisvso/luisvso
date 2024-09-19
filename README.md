@@ -13,7 +13,7 @@ When I’m not busy giving bugs a hard time, you can find me running, lifting we
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luluisv7@gmail.com)
 # 
 
-## Stats
+## 📊 Stats
 ![LuisVvS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisVvS&show_icons=true&theme=gruvbox)
 
 #
