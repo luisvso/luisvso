@@ -5,7 +5,7 @@
 ## About me 🤠
 My name is Luis Valdo, I am from Brazil 🇧🇷 and I am a software engineering student. I’m passionate about creating things and solving complex problems, with a particular love for backend development and a secret passion for AI 🤖. I currently use Neovim/VSCode and Linux to support my everyday development, and I’m always eager to learn and embrace any challenge that comes my way.
 
-When I’m not busy giving bugs a hard time, I can be found running, lifting weights, playing some classical guitar, or spending time with my beautiful dog Eike 🐶.
+When I’m not busy giving bugs a hard time, you can find me running, lifting weights, playing some classical guitar, or spending time with my beautiful dog Eike 🐶.
 
 
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luuishacker/)
