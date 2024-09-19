@@ -1,10 +1,12 @@
 ## What's up 😎 
 <img src="https://media3.giphy.com/media/101DNxoBTatF16/giphy.gif?cid=790b76115b641b6c647507c9ecb7a40dddcfb1ebe417465d&rid=giphy.gif&ct=g" width="200px">
 
-#
-🤠
-My name is Luis Valdo, and I'm a software engineering student. I'm passionate about creating things and solving hard problems.
+## About me 🤠
+My name is Luis Valdo, I am from Brazil 🇧🇷 and I'm a software engineering student. I'm passionate about creating things and solving hard problems.
 
+[![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luuishacker/)
+[![LinkedIn profile link](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-valdo-15a8a921b/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luluisv7@gmail.com)
 # 
 
 ![LuisVvS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisVvS&show_icons=true&theme=gruvbox)
