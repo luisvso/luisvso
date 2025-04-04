@@ -14,7 +14,7 @@ When I’m not busy giving bugs a hard time, you can find me running, lifting we
 # 
 
 ## 📊 Stats
-![LuisVvS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisVvS&show_icons=true&theme=gruvbox)
+![luisvso's GitHub stats](https://github-readme-stats.vercel.app/api?username=luissvo&show_icons=true&theme=gruvbox)
 
 #
 
