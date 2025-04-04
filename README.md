@@ -14,8 +14,7 @@ When I’m not busy giving bugs a hard time, you can find me running, lifting we
 # 
 
 ## 📊 Stats
-![luisvso's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisvso&show_icons=true&theme=tokyonight)
-
+![luisvso's Stats](https://github-readme-stats.vercel.app/api?username=luisvso&theme=dark&show_icons=true&hide_border=true&count_private=true)
 #
 
 ### 🧰 Languages and Tools
