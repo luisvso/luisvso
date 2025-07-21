@@ -1,5 +1,8 @@
-## What's up 😎 
-<img src="https://media3.giphy.com/media/101DNxoBTatF16/giphy.gif?cid=790b76115b641b6c647507c9ecb7a40dddcfb1ebe417465d&rid=giphy.gif&ct=g" width="200px">
+## HEY Dev
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+Luis+here+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" />
+</div>
 
 
 ## About me 🤠
@@ -8,9 +11,11 @@ My name is Luis Valdo, I am from Brazil 🇧🇷 and I am a software engineering
 When I’m not busy giving bugs a hard time, you can find me running, lifting weights, playing some classical guitar, or spending time with my beautiful dog Eike 🐶.
 
 
+
+
 [![instagram profile link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luissvaldo/)
 [![LinkedIn profile link](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisvaldo)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luluisv7@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisvso.dev@gmail.com)
 # 
 
 ## 📊 Stats
