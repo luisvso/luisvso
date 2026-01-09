@@ -20,9 +20,9 @@ When I’m not busy giving bugs a hard time, you can find me running, lifting we
 
 
 ## 📊 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisvso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=luisvso&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 
 
 ### 🧰 Languages and Tools
