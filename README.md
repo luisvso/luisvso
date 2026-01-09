@@ -20,9 +20,7 @@ When I’m not busy giving bugs a hard time, you can find me running, lifting we
 
 
 ## 📊 Stats
-<p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=luisvso&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
-</p>
+
 
 
 ### 🧰 Languages and Tools
