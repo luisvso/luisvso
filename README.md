@@ -6,11 +6,6 @@
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisvso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-
 ## About me 🤠
 My name is Luis Valdo, I am from Brazil 🇧🇷 and I am a software engineering student. I’m passionate about creating things and solving complex problems, with a particular love for backend development and a secret passion for AI 🤖. I currently use Neovim/VSCode and Linux to support my everyday development, and I’m always eager to learn and embrace any challenge that comes my way.
 
